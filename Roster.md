@@ -2,5 +2,6 @@
 
 | Name      | Favorite Programming Language |
 |-----------|-------------------------------|
-| Huayu     | Python                        |
+| Huayu     | C++                           |
 | Xian      | Python                        |
+
