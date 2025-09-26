@@ -2,7 +2,7 @@
 
 | Name      | Favorite Programming Language |
 |-----------|-------------------------------|
-| Huayu     | C++                           |
+| Huayu     | Javascript                    |
 | Xian      | Python                        |
 | Test      | Python                        |
 
